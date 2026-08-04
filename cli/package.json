@@ -36,7 +36,7 @@
 		"@google/genai": "^1.0.0",
 		"@lmstudio/sdk": "^1.1.1",
 		"@mistralai/mistralai": "^1.9.18",
-		"@modelcontextprotocol/sdk": "1.12.0",
+		"@modelcontextprotocol/sdk": "1.30.0",
 		"@qdrant/js-client-rest": "^1.14.0",
 		"@roo-code/cloud": "workspace:^",
 		"@roo-code/telemetry": "workspace:^",
@@ -45,7 +45,7 @@
 		"@vscode/ripgrep": "^1.15.11",
 		"ajv": "^8.12.0",
 		"async-mutex": "^0.5.0",
-		"axios": "^1.7.4",
+		"axios": "^1.18.0",
 		"chalk": "^5.3.0",
 		"cheerio": "^1.0.0",
 		"chokidar": "^4.0.1",
@@ -53,7 +53,7 @@
 		"commander": "^12.1.0",
 		"default-shell": "^2.2.0",
 		"delay": "^6.0.0",
-		"diff": "^7.0.0",
+		"diff": "^9.0.0",
 		"diff-match-patch": "^1.0.5",
 		"dotenv": "^16.4.7",
 		"eventemitter3": "^5.0.1",
@@ -127,7 +127,7 @@
 		"tree-sitter-wasms": "^0.1.12",
 		"ts-node": "^10.9.1",
 		"turndown": "^7.2.0",
-		"undici": "^7.13.0",
+		"undici": "^7.29.0",
 		"uri-js": "^4.4.1",
 		"uuid": "^11.1.0",
 		"vscode-material-icons": "^0.1.1",
@@ -163,7 +163,7 @@
 		"rimraf": "^6.1.0",
 		"tsx": "^4.19.3",
 		"typescript": "^5.4.5",
-		"vitest": "^3.2.3"
+		"vitest": "^3.2.6"
 	},
 	"engines": {
 		"node": ">=20.19.2"
