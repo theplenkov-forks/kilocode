@@ -118,7 +118,7 @@
 		"socket.io-client": "^4.8.1",
 		"sound-play": "^1.1.0",
 		"sqlite3": "^5.1.7",
-		"stream-json": "^1.8.0",
+		"stream-json": "^3.5.0",
 		"string-width": "^8.1.0",
 		"strip-ansi": "^7.1.0",
 		"strip-bom": "^5.0.0",
@@ -127,7 +127,7 @@
 		"tree-sitter-wasms": "^0.1.12",
 		"ts-node": "^10.9.1",
 		"turndown": "^7.2.0",
-		"undici": "^7.13.0",
+		"undici": "^7.29.1",
 		"uri-js": "^4.4.1",
 		"uuid": "^11.1.0",
 		"vscode-material-icons": "^0.1.1",
@@ -163,7 +163,7 @@
 		"rimraf": "^6.1.0",
 		"tsx": "^4.19.3",
 		"typescript": "^5.4.5",
-		"vitest": "^3.2.3"
+		"vitest": "^5.0.3"
 	},
 	"engines": {
 		"node": ">=20.19.2"
